@@ -65,6 +65,6 @@ You can open ADS_PROJECT.ipynb in Jupyter Notebook or Google Colab to execute th
 👨‍💻 Author
 📌 Syed Farhan (CS23B2039)
 
-📌 📩 Contact: [Your Email or LinkedIn Profile]
+📌 📩 Contact:(https://www.linkedin.com/in/syed-farhan-a3b0612b0/)
 
 ⭐ If you found this project useful, give it a star ⭐ on GitHub!
