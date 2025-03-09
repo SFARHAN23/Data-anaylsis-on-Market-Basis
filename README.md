@@ -1,6 +1,7 @@
 # 📌 **Applied Data Science (ADS) Project**  
 ## **Market Basket Analysis using Association Rule Mining & Customer Segmentation**  
-Dataset:https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset/code
+Dataset:https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset/code.
+
 📊 **Understanding customer purchase behavior through data-driven insights.**  
 
 ## 📜 **Project Overview**  
