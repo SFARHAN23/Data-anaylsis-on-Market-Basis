@@ -1,3 +1,24 @@
+## 📌 Applied Data Science (ADS) Project: Market Basket Analysis & Customer Segmentation
+📊 Analyzing customer purchase behavior using Association Rule Mining & Machine Learning techniques.
+
+## 📜 Project Overview
+This project applies **Market Basket Analysis (MBA)** and **Customer Segmentation** to analyze shopping patterns.
+
+## 📂 Repository Contents
+📁 **ADS_PROJECT.ipynb** - Jupyter Notebook  
+📄 **ADS_project.pdf** - Full project report  
+
+## 🎯 Project Breakdown
+🔹 **1. Exploratory Data Analysis (EDA) & Preprocessing**  
+✔️ Cleaning & formatting the dataset  
+✔️ Identifying missing values  
+
+🔹 **2. Market Basket Analysis (Association Rule Mining)**  
+🟣 **Apriori Algorithm** - Extracts frequent itemsets  
+🟣 **FP-Growth Algorithm** - Faster alternative  
+
+🔹 **Example Insight:** :bulb: If a customer buys milk, they have a 70% probability of also buying bread.  
+
 📌 Applied Data Science (ADS) Project: Market Basket Analysis & Customer Segmentation
 📊 Analyzing customer purchase behavior using Association Rule Mining & Machine Learning techniques.
 
