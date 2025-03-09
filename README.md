@@ -77,10 +77,3 @@ Additionally, clustering models classify customers based on **purchasing behavio
 
 ---
 
-## 📌 **How to Use This Repository**  
-
-🔹 **Clone the Repository**  
-
-```bash
-git clone https://github.com/your-username/ADS_Project.git
-cd ADS_Project
